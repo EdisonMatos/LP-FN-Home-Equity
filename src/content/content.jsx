@@ -58,7 +58,7 @@ const currentYear = new Date().getFullYear();
 export const infos = {
   name: "FN Consultoria Home Equity",
   email: "contato", // Email desejado pelo cliente
-  domain: "A Definir", // Sem "www"
+  domain: "fnascimentoconsultoria.com.br", // Sem "www"
   phone: {
     ddd: "92",
     firstPart: "98806", // Apenas os 5 primeiros números (incluindo o 9)
